@@ -12,12 +12,9 @@
         "ramsey/uuid": "^3.7",
         "mathiasverraes/classfunctions": "^1.1",
         "dflydev/doctrine-orm-service-provider": "^2.0",
-        "twig/twig": "^2.4",
         "zircote/swagger-php": "^2.0",
         "tanigami/value-objects": "^0.4.3",
-        "tanigami/specification": "^1.1",
-        "symfony/flex": "^1.0",
-        "symfony/monolog-bundle": "^3.3"
+        "tanigami/specification": "^1.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.2"
